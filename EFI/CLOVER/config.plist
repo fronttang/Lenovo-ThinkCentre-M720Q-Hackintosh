@@ -150,17 +150,17 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 debug=0x100 -disablegfxfirmware</string>
+		<string>dart=0 debug=0x100 -disablegfxfirmware</string>
 		<key>DefaultVolume</key>
-		<string>macOS</string>
+		<string>Macintosh HD</string>
+		<key>Fast</key>
+		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NeverHibernate</key>
-		<true/>
+		<false/>
 		<key>NoEarlyProgress</key>
-		<true/>
-		<key>Timeout</key>
-		<integer>10</integer>
+		<false/>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -169,7 +169,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>1</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Properties</key>
 		<dict>
@@ -532,7 +532,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07821609QXA8</string>
+		<string>C07841100GUAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -561,6 +561,10 @@
 		<string>0x02</string>
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
+		<key>SerialNumber</key>
+		<string>C07XJ2ZGJYVX</string>
+		<key>SmUUID</key>
+		<string>324F8DC6-CD4A-4665-BBD4-22EBC16A3EA2</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
